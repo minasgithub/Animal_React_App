@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Shizuru&display=swap");
+
+.App {
+  font-family: Roboto, sans-serif;
+  text-align: center;
+}
+
+button {
+  margin: 0 10px 10px 10px;
+  border: none;
+  padding: 10px 10px;
+  border-radius: 10px;
+  background-color: #34be82;
+  color: white;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #17d7a0;
+}
+
+img {
+  max-width: 500px;
+  max-height: 500px;
+}
+
+h1 {
+  font-family: Shizuru;
+  font-size: 50px;
+}
